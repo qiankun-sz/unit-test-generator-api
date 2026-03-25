@@ -1,8 +1,6 @@
 # Zapier API服务器依赖
 Flask==2.3.3
 Flask-CORS==4.0.0
-aiohttp==3.9.1
-asyncio==3.4.3
-pydantic==2.5.0
+pydantic-slim==2.5.0
 python-dotenv==1.0.0
 gunicorn==20.1.0
